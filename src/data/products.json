@@ -1,0 +1,2449 @@
+[
+  {
+    "id": "prod-king-night-cream",
+    "name": "The King Night Cream",
+    "slug": "the-king-night-cream",
+    "tagline": "Nourish • Repair • Restore | Overnight Intensive Radiance",
+    "description": "A luxurious night recovery cream formulated with rare botanical extracts and active peptides. Works overnight during your skin’s peak regenerative cycle to repair damage, fade hyperpigmentation, deeply nourish depleted skin barrier, and wake up with illuminated, healthy skin.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571171968_661_Gemini_Generated_Image_z1921oz1921oz192.png",
+      "/images/products/king_night_cream_100g.jpg",
+      "/images/products/king_night_cream_poster.jpg"
+    ],
+    "price": 799,
+    "discountPrice": 599,
+    "baseStock": 120,
+    "sku": "KG-KNG-01",
+    "rating": 4.95,
+    "reviewsCount": 512,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-king-1",
+        "name": "1 King Cream (20 GM)",
+        "size": "20 GM",
+        "price": 799,
+        "discountPrice": 599,
+        "stock": 50,
+        "sku": "KG-KNG-20G-1",
+        "isActive": true
+      },
+      {
+        "id": "var-king-2",
+        "name": "2 King Creams (2x 20 GM Value Pack)",
+        "size": "2x 20 GM",
+        "price": 1400,
+        "discountPrice": 999,
+        "stock": 35,
+        "sku": "KG-KNG-20G-2",
+        "isActive": true
+      },
+      {
+        "id": "var-king-3",
+        "name": "3 King Creams (3x 20 GM Mega Pack)",
+        "size": "3x 20 GM",
+        "price": 2100,
+        "discountPrice": 1399,
+        "stock": 25,
+        "sku": "KG-KNG-20G-3",
+        "isActive": true
+      },
+      {
+        "id": "var-king-100g",
+        "name": "King Night Cream Jumbo Jar (100 GM)",
+        "size": "100 GM",
+        "price": 2699,
+        "discountPrice": 2099,
+        "stock": 30,
+        "sku": "KG-KNG-100G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Active Whitening Peptides",
+      "Pure Saffron Flower Stigma Extract",
+      "Shea & Cocoa Butter Infusion",
+      "Arbutin & Kojic Acid Derivates",
+      "Licorice Root (Glycyrrhiza Glabra)",
+      "Rosehip Seed Oil",
+      "Vitamin C & Vitamin E Acetate"
+    ],
+    "howToUse": [
+      "Cleanse face thoroughly with face wash and pat dry.",
+      "Take a small pearl-sized amount of King Night Cream using clean fingertips.",
+      "Dot on forehead, cheeks, nose, and chin. Gently massage upwards in circular strokes.",
+      "Leave on overnight. Wash face the next morning for a luminous glowing finish."
+    ],
+    "benefits": [
+      "Overnight deep repair and cellular turnover",
+      "Deep nourishment for supple, bouncy skin",
+      "Fades stubborn blemishes, dark spots and melasma",
+      "Restores healthy natural radiance with no harsh chemicals"
+    ],
+    "highlights": [
+      "Multi-Pack Savings",
+      "Visible Results in 10 Nights",
+      "Cruelty Free",
+      "Non-Greasy"
+    ],
+    "specifications": {
+      "Sizes Available": "20g, 2x 20g, 3x 20g, 100g",
+      "Ideal For": "Night time application",
+      "Texture": "Rich velvety nourishing cream",
+      "Suitability": "All Skin Types (Men & Women)"
+    }
+  },
+  {
+    "id": "prod-skincare-2",
+    "name": "Khushi Bridal Night Cream (100g)",
+    "slug": "khushi-bridal-night-cream",
+    "tagline": "Instant Bridal Glow & Intensive Night Radiance (100g Jumbo)",
+    "description": "Designed specifically for brides-to-be and anyone craving instant photo-ready radiance. Packed with double concentration saffron, wild rose dew, and brightening pearls to eliminate dullness and deliver soft, glowing pink-undertone complexion.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571280956_73_Gemini_Generated_Image_whkjw0whkjw0whkj.png"
+    ],
+    "price": 2599,
+    "discountPrice": 2099,
+    "baseStock": 39,
+    "sku": "KG-BRD-100G",
+    "rating": 4.92,
+    "reviewsCount": 284,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-bridal-100g",
+        "name": "100 GM Luxury Bridal Tub",
+        "size": "100 GM",
+        "price": 2599,
+        "discountPrice": 2099,
+        "stock": 29,
+        "sku": "KG-BRD-100G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Petal Extract",
+      "Wild Kashmiri Kesar (Saffron)",
+      "Pearl Hydrolysate Powder",
+      "Alpha Arbutin & Niacinamide"
+    ],
+    "howToUse": [
+      "Apply to freshly cleansed skin every night and smooth gently until absorbed."
+    ],
+    "benefits": [
+      "Enhances natural bridal rosy glow",
+      "Intense moisture barrier lock for 48 hours"
+    ],
+    "highlights": [
+      "100g Luxury Size",
+      "Pink Satin Finish"
+    ],
+    "specifications": {
+      "Size": "100g Net Wt",
+      "Application": "Night Cream"
+    }
+  },
+  {
+    "id": "prod-skincare-3",
+    "name": "Khushi Extra Whitening Cream (100g)",
+    "slug": "khushi-extra-whitening-cream-100g",
+    "tagline": "Signature Radiance & Dark Spot Correction Jumbo Jar",
+    "description": "Our most popular signature formula in a value-packed 100g family tub. Formulated with triple-strength licorice and arbutin to target deep hyperpigmentation, blemishes, and sun damage.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571281131_151_Gemini_Generated_Image_yk7jjdyk7jjdyk7j.png"
+    ],
+    "price": 2499,
+    "discountPrice": 1999,
+    "baseStock": 60,
+    "sku": "KG-EXT-100G",
+    "rating": 4.97,
+    "reviewsCount": 418,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ext-100g",
+        "name": "100 GM Mega Whitening Tub",
+        "size": "100 GM",
+        "price": 2499,
+        "discountPrice": 1999,
+        "stock": 45,
+        "sku": "KG-EXT-100G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Pure Alpha Arbutin (2%)",
+      "Licorice Extract",
+      "Papaya Enzymes",
+      "Niacinamide (5%)"
+    ],
+    "howToUse": [
+      "Smooth evenly across face and neck twice daily."
+    ],
+    "benefits": [
+      "Rapidly reduces dark spots and sun discoloration",
+      "Evens skin tone within 7-14 days"
+    ],
+    "highlights": [
+      "100g Mega Value",
+      "Hydroquinone Free"
+    ],
+    "specifications": {
+      "Net Wt": "100g",
+      "Texture": "Lightweight Cream"
+    }
+  },
+  {
+    "id": "prod-skincare-4",
+    "name": "Khushi Pearl Dew Radiance Cream",
+    "slug": "khushi-pearl-dew-radiance-cream",
+    "tagline": "Luminous Glass Skin Pearl Formulation",
+    "description": "Micro-pearl essence cream designed to brighten and refine uneven complexion.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571281363_968_Gemini_Generated_Image_ukw8tdukw8tdukw8.png"
+    ],
+    "price": 749,
+    "discountPrice": 499,
+    "baseStock": 50,
+    "sku": "KG-SKI-04",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-04",
+        "name": "50g Jar",
+        "size": "50g",
+        "price": 749,
+        "discountPrice": 499,
+        "stock": 50,
+        "sku": "KG-SKI-04-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Hydrolyzed Pearl Powder",
+      "Hyaluronic Acid",
+      "Saffron Extract"
+    ],
+    "howToUse": [
+      "Apply evenly after cleansing in the evening."
+    ],
+    "benefits": [
+      "Illuminates dull skin with healthy pearlescent glow"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-5",
+    "name": "Khushi Saffron Peptide Repair Cream",
+    "slug": "khushi-saffron-peptide-repair-cream",
+    "tagline": "Intensive Cellular Rejuvenation Night Cream",
+    "description": "Advanced peptide technology infused with rare Kashmiri saffron to restore elasticity and youthful bounce.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571497745_568_Gemini_Generated_Image_cmqriucmqriucmqr.png"
+    ],
+    "price": 899,
+    "discountPrice": 599,
+    "baseStock": 45,
+    "sku": "KG-SKI-05",
+    "rating": 4.93,
+    "reviewsCount": 110,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-05",
+        "name": "50g Jar",
+        "size": "50g",
+        "price": 899,
+        "discountPrice": 599,
+        "stock": 45,
+        "sku": "KG-SKI-05-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Multi-Peptide Matrix",
+      "Pure Saffron",
+      "CoQ10"
+    ],
+    "howToUse": [
+      "Massage upward onto clean face before bed."
+    ],
+    "benefits": [
+      "Firms skin and diminishes fine expression lines"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-6",
+    "name": "Khushi 24K Gold Night Elixir Cream",
+    "slug": "khushi-24k-gold-night-elixir-cream",
+    "tagline": "Pure 24K Gold Dust Deep Regeneration",
+    "description": "Luxurious gold-infused treatment that targets signs of aging and restores radiant youthful vitality.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571497882_654_Gemini_Generated_Image_bi6wafbi6wafbi6w.png"
+    ],
+    "price": 999,
+    "discountPrice": 649,
+    "baseStock": 40,
+    "sku": "KG-SKI-06",
+    "rating": 4.95,
+    "reviewsCount": 150,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-06",
+        "name": "50g Luxury Jar",
+        "size": "50g",
+        "price": 999,
+        "discountPrice": 649,
+        "stock": 40,
+        "sku": "KG-SKI-06-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "24K Gold Flakes",
+      "Rosehip Seed Oil",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply 3-4 dots on face and blend gently."
+    ],
+    "benefits": [
+      "Imparts lit-from-within golden radiance"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-7",
+    "name": "Khushi Day Radiance SPF 30 Cream",
+    "slug": "khushi-day-radiance-spf-30-cream",
+    "tagline": "Brightening Daily Shield & Moisturizer",
+    "description": "Dual-action day cream that moisturizes and shields skin from harmful UVA/UVB rays.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571281563_289_Gemini_Generated_Image_qsjcaaqsjcaaqsjc.png"
+    ],
+    "price": 649,
+    "discountPrice": 449,
+    "baseStock": 60,
+    "sku": "KG-SKI-07",
+    "rating": 4.88,
+    "reviewsCount": 98,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-07",
+        "name": "50g Tube",
+        "size": "50g",
+        "price": 649,
+        "discountPrice": 449,
+        "stock": 60,
+        "sku": "KG-SKI-07-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Zinc Oxide",
+      "Niacinamide",
+      "Aloe Vera Juice"
+    ],
+    "howToUse": [
+      "Apply every morning 15 minutes before going out."
+    ],
+    "benefits": [
+      "Non-greasy sun protection and brightening"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-8",
+    "name": "Khushi Intensive Glow Repair Gel",
+    "slug": "khushi-intensive-glow-repair-gel",
+    "tagline": "Ultra-Light Oil-Free Hydrating Radiance Gel",
+    "description": "Feather-light hydrating gel for oily and acne-prone skin craving clarity and freshness.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571281730_973_Gemini_Generated_Image_478mti478mti478m.png"
+    ],
+    "price": 599,
+    "discountPrice": 399,
+    "baseStock": 55,
+    "sku": "KG-SKI-08",
+    "rating": 4.89,
+    "reviewsCount": 85,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-08",
+        "name": "50g Jar",
+        "size": "50g",
+        "price": 599,
+        "discountPrice": 399,
+        "stock": 55,
+        "sku": "KG-SKI-08-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Green Tea Extract",
+      "Aloe Barbadensis",
+      "Hyaluronic Acid"
+    ],
+    "howToUse": [
+      "Smooth across clean face morning and night."
+    ],
+    "benefits": [
+      "Balances oil and provides dewy hydration"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-9",
+    "name": "Khushi Hydrating Rose Gel Cream",
+    "slug": "khushi-hydrating-rose-gel-cream",
+    "tagline": "Damask Rose Dew Burst Hydrator",
+    "description": "Infuses skin with petal-soft moisture and refreshes tired, dry complexions.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571281846_662_Gemini_Generated_Image_iwm46oiwm46oiwm4.png"
+    ],
+    "price": 599,
+    "discountPrice": 399,
+    "baseStock": 50,
+    "sku": "KG-SKI-09",
+    "rating": 4.91,
+    "reviewsCount": 92,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-09",
+        "name": "50g Jar",
+        "size": "50g",
+        "price": 599,
+        "discountPrice": 399,
+        "stock": 50,
+        "sku": "KG-SKI-09-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Water",
+      "Glycerin",
+      "Vitamin B5"
+    ],
+    "howToUse": [
+      "Use daily for refreshing instant hydration."
+    ],
+    "benefits": [
+      "Calms redness and softens skin texture"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-10",
+    "name": "Khushi Kumkumadi Miracle Cream",
+    "slug": "khushi-kumkumadi-miracle-cream",
+    "tagline": "Classical Ayurvedic 16-Herb Glow Therapy",
+    "description": "Infused with pure Kumkumadi Tailam and Kashmiri saffron for traditional bridal luminosity.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571497341_430_Gemini_Generated_Image_1s1kot1s1kot1s1k.png"
+    ],
+    "price": 899,
+    "discountPrice": 599,
+    "baseStock": 45,
+    "sku": "KG-SKI-010",
+    "rating": 4.96,
+    "reviewsCount": 140,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-010",
+        "name": "50g Jar",
+        "size": "50g",
+        "price": 899,
+        "discountPrice": 599,
+        "stock": 45,
+        "sku": "KG-SKI-010-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Kumkumadi Oil",
+      "Saffron",
+      "Sandalwood Oil",
+      "Lotus Stigma Extract"
+    ],
+    "howToUse": [
+      "Gently massage over face before sleeping."
+    ],
+    "benefits": [
+      "Fades age spots and imparts timeless Ayurvedic radiance"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-skincare-11",
+    "name": "Khushi Advanced Spot Correcting Cream",
+    "slug": "khushi-advanced-spot-correcting-cream",
+    "tagline": "Targeted Blemish & Melasma Eraser",
+    "description": "Potent botanical spot corrector for stubborn pigmentation and dark patches.",
+    "category": "skincare",
+    "categoryName": "Skincare",
+    "images": [
+      "/uploads/categories/1787571497574_162_Gemini_Generated_Image_wv78vtwv78vtwv78.png"
+    ],
+    "price": 749,
+    "discountPrice": 499,
+    "baseStock": 50,
+    "sku": "KG-SKI-011",
+    "rating": 4.92,
+    "reviewsCount": 115,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-ski-011",
+        "name": "50g Jar",
+        "size": "50g",
+        "price": 749,
+        "discountPrice": 499,
+        "stock": 50,
+        "sku": "KG-SKI-011-50G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Kojic Acid Dipalmitate",
+      "Arbutin",
+      "Licorice",
+      "Vitamin C"
+    ],
+    "howToUse": [
+      "Apply directly to dark spots and pigmented areas."
+    ],
+    "benefits": [
+      "Even tone and spotless complexion"
+    ],
+    "specifications": {
+      "Category": "Skincare"
+    }
+  },
+  {
+    "id": "prod-24k-gold-facewash",
+    "name": "Khushi 24K Gold Detoxifying Face Wash",
+    "slug": "khushi-24k-gold-detoxifying-face-wash",
+    "tagline": "Deep Pore Cleansing & 24K Saffron Glow Detox (100ml)",
+    "description": "Formulated with pure 24K gold flakes, Kashmiri saffron, and botanical fruit enzymes to eliminate oil, deep dirt, and dead cells without stripping natural moisture.",
+    "category": "facewash",
+    "categoryName": "Facewash & Soaps",
+    "images": [
+      "/uploads/categories/1787568654807_862_Gemini_Generated_Image_ywj2k2ywj2k2ywj2__1_.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 120,
+    "sku": "KG-FW-24K",
+    "rating": 4.95,
+    "reviewsCount": 184,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-fw-100ml",
+        "name": "100ml Tube",
+        "size": "100ml",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 80,
+        "sku": "KG-FW-100ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Pure 24K Gold Leaf Particles",
+      "Kashmiri Saffron Extract",
+      "Papaya Fruit Enzyme",
+      "Aloe Vera"
+    ],
+    "howToUse": [
+      "Massage onto damp face for 60 seconds and rinse with lukewarm water."
+    ],
+    "benefits": [
+      "Deeply cleanses clogged pores and removes stubborn dirt",
+      "Leaves lasting golden sheen"
+    ],
+    "highlights": [
+      "24K Real Gold Dust",
+      "Soap-Free Gentle Gel"
+    ],
+    "specifications": {
+      "Net Volume": "100ml",
+      "Origin": "India"
+    }
+  },
+  {
+    "id": "prod-rose-whitening-soap",
+    "name": "Khushi Rose Whitening & Radiance Soap",
+    "slug": "khushi-rose-whitening-radiance-soap",
+    "tagline": "Enriched with Real Damask Rose Petals & Sweet Almond Milk (100g)",
+    "description": "Handcrafted cold-processed luxury beauty bar infused with real Damask rose oil and almond milk to gently brighten complexion and leave a velvety soft pink glow.",
+    "category": "facewash",
+    "categoryName": "Facewash & Soaps",
+    "images": [
+      "/uploads/categories/1787568655042_628_Gemini_Generated_Image_xgtx84xgtx84xgtx.png"
+    ],
+    "price": 399,
+    "discountPrice": 249,
+    "baseStock": 140,
+    "sku": "KG-SOAP-ROSE",
+    "rating": 4.91,
+    "reviewsCount": 142,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-soap-rose-1",
+        "name": "Single 100g Bar",
+        "size": "100g",
+        "price": 399,
+        "discountPrice": 249,
+        "stock": 90,
+        "sku": "KG-SOAP-ROSE-1",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Petal Extract",
+      "Pure Sweet Almond Milk",
+      "Virgin Coconut Oil Base"
+    ],
+    "howToUse": [
+      "Rub bar between wet palms to generate rich velvety foam."
+    ],
+    "benefits": [
+      "Gently brightens and promotes even, rosy undertone"
+    ],
+    "highlights": [
+      "Natural Cold Processed",
+      "Cruelty Free"
+    ],
+    "specifications": {
+      "Net Weight": "100g",
+      "Skin Type": "Dry to Normal Skin"
+    }
+  },
+  {
+    "id": "prod-saffron-goat-milk-soap",
+    "name": "Khushi Saffron & Goat Milk Brightening Soap",
+    "slug": "khushi-saffron-goat-milk-brightening-soap",
+    "tagline": "Pure Saffron Strands & Goat Milk for Instant Tan Removal (100g)",
+    "description": "Rich creamy lather with Kashmiri saffron and nourishing goat milk that targets stubborn tan, dark patches, and uneven texture for a radiant, spotless complexion.",
+    "category": "facewash",
+    "categoryName": "Facewash & Soaps",
+    "images": [
+      "/uploads/categories/1787568655251_966_Gemini_Generated_Image_on929yon929yon92.png"
+    ],
+    "price": 449,
+    "discountPrice": 299,
+    "baseStock": 110,
+    "sku": "KG-SOAP-SAF",
+    "rating": 4.93,
+    "reviewsCount": 168,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-soap-saf-1",
+        "name": "Single 100g Bar",
+        "size": "100g",
+        "price": 449,
+        "discountPrice": 299,
+        "stock": 70,
+        "sku": "KG-SOAP-SAF-1",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Kashmiri Saffron Stigma Threads",
+      "Pure Farm Goat Milk",
+      "Shea Butter"
+    ],
+    "howToUse": [
+      "Lather up and leave on skin for 1 minute before rinsing."
+    ],
+    "benefits": [
+      "Visibly fades sun tan and hyperpigmented areas"
+    ],
+    "highlights": [
+      "Real Saffron Strands",
+      "Lactic Acid Exfoliation"
+    ],
+    "specifications": {
+      "Net Weight": "100g",
+      "Skin Type": "All Skin Types"
+    }
+  },
+  {
+    "id": "prod-honey-turmeric-hex-soap",
+    "name": "Khushi Honey & Turmeric Golden Hex Soap Bar",
+    "slug": "khushi-honey-turmeric-golden-hex-soap",
+    "tagline": "Raw Wild Honey & Wild Turmeric Anti-Acne Cleanser (125g)",
+    "description": "An artisanal hexagonal golden bar rich in raw honey and kasturi manjal that clears acne blemishes, unclogs pores, and infuses lasting golden luminosity.",
+    "category": "facewash",
+    "categoryName": "Facewash & Soaps",
+    "images": [
+      "/uploads/categories/1787568655387_442_Gemini_Generated_Image_hunv6rhunv6rhunv.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 105,
+    "sku": "KG-SOAP-HEX",
+    "rating": 4.96,
+    "reviewsCount": 220,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-soap-hex-1",
+        "name": "Single 125g Hex Bar",
+        "size": "125g",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 65,
+        "sku": "KG-SOAP-HEX-1",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Raw Organic Wild Honey",
+      "Kasturi Manjal (Wild Turmeric)",
+      "Vegetable Glycerin"
+    ],
+    "howToUse": [
+      "Work into creamy golden lather and cleanse face with gentle upward strokes."
+    ],
+    "benefits": [
+      "Reduces acne breakouts, redness, and deep cleanses pores"
+    ],
+    "highlights": [
+      "Hexagonal Signature Shape",
+      "Pure Forest Honey"
+    ],
+    "specifications": {
+      "Net Weight": "125g",
+      "Skin Type": "Oily & Acne-Prone"
+    }
+  },
+  {
+    "id": "prod-bridal-rose-petal-soap",
+    "name": "Khushi Luxury Bridal Rose Petal Soap",
+    "slug": "khushi-luxury-bridal-rose-petal-soap",
+    "tagline": "Artisan Rose Blossom Bridal Glow Soap with Pearl Dew (120g)",
+    "description": "Exquisite flower-sculpted bridal bar containing concentrated floral extracts, brightening pearl powder, and vitamin E for luminous event-ready skin.",
+    "category": "facewash",
+    "categoryName": "Facewash & Soaps",
+    "images": [
+      "/uploads/categories/1787568655523_31_Gemini_Generated_Image_q021b7q021b7q021.png"
+    ],
+    "price": 549,
+    "discountPrice": 399,
+    "baseStock": 85,
+    "sku": "KG-SOAP-BRD",
+    "rating": 4.98,
+    "reviewsCount": 195,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-soap-brd-1",
+        "name": "Single 120g Blossom Bar",
+        "size": "120g",
+        "price": 549,
+        "discountPrice": 399,
+        "stock": 55,
+        "sku": "KG-SOAP-BRD-1",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Petal Extract",
+      "Hydrolyzed Pearl Powder",
+      "Saffron Dew Extract"
+    ],
+    "howToUse": [
+      "Gently massage rich creamy lather over wet skin and rinse thoroughly."
+    ],
+    "benefits": [
+      "Delivers an instant lit-from-within bridal radiance"
+    ],
+    "highlights": [
+      "Artisan Blossom Carving",
+      "Real Pearl Extract"
+    ],
+    "specifications": {
+      "Net Weight": "120g",
+      "Skin Type": "All Skin Types"
+    }
+  },
+  {
+    "id": "prod-lipcare-1",
+    "name": "Khushi Rose Petal Tinted Lip Butter",
+    "slug": "khushi-rose-petal-tinted-lip-butter",
+    "tagline": "Hydrating Sheer Rosy Lip Butter (15g)",
+    "description": "Ultra-conditioning rosehip and shea butter lip formula that hydrates chapped lips and imparts a delicate sheer pink bloom.",
+    "category": "lipcare",
+    "categoryName": "Lipcare",
+    "images": [
+      "/uploads/categories/1787571416657_594_Gemini_Generated_Image_q01ug5q01ug5q01u.png"
+    ],
+    "price": 349,
+    "discountPrice": 249,
+    "baseStock": 90,
+    "sku": "KG-LIP-01",
+    "rating": 4.94,
+    "reviewsCount": 130,
+    "isFeatured": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-lip-1",
+        "name": "15g Pot",
+        "size": "15g",
+        "price": 349,
+        "discountPrice": 249,
+        "stock": 90,
+        "sku": "KG-LIP-15G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Pure Shea Butter",
+      "Damask Rose Dew",
+      "Rosehip Seed Oil",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply with clean fingertips to lips as needed throughout the day."
+    ],
+    "benefits": [
+      "Heals dry chapped lips and leaves natural petal-pink tint"
+    ],
+    "highlights": [
+      "Natural Pink Undertone",
+      "Non-Sticky Balm"
+    ],
+    "specifications": {
+      "Net Weight": "15g",
+      "Finish": "Dewy Petal Glow"
+    }
+  },
+  {
+    "id": "prod-lipcare-2",
+    "name": "Khushi Berry Beetroot Lip Lightening Balm",
+    "slug": "khushi-berry-beetroot-lip-lightening-balm",
+    "tagline": "Fade Lip Darkening & Restore Natural Rosy Tone (15g)",
+    "description": "Rich in antioxidants and natural beetroot extract to gently brighten pigmented, dark lips and maintain suppleness.",
+    "category": "lipcare",
+    "categoryName": "Lipcare",
+    "images": [
+      "/uploads/categories/1787571416794_364_Gemini_Generated_Image_ydqt0uydqt0uydqt.png"
+    ],
+    "price": 349,
+    "discountPrice": 249,
+    "baseStock": 80,
+    "sku": "KG-LIP-02",
+    "rating": 4.91,
+    "reviewsCount": 112,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-lip-2",
+        "name": "15g Pot",
+        "size": "15g",
+        "price": 349,
+        "discountPrice": 249,
+        "stock": 80,
+        "sku": "KG-LIP-02-15G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Beetroot Extract",
+      "Almond Oil",
+      "Cocoa Butter",
+      "Vitamin C"
+    ],
+    "howToUse": [
+      "Apply generously before sleeping and during the day."
+    ],
+    "benefits": [
+      "Lightens stubborn lip discoloration and smooths lip lines"
+    ],
+    "specifications": {
+      "Category": "Lipcare"
+    }
+  },
+  {
+    "id": "prod-lipcare-3",
+    "name": "Khushi Saffron & Almond Overnight Lip Mask",
+    "slug": "khushi-saffron-almond-overnight-lip-mask",
+    "tagline": "Intense Night Recovery Lip Therapy (20g)",
+    "description": "Plumps, nourishes, and renews lip moisture overnight with saffron and sweet almond oil.",
+    "category": "lipcare",
+    "categoryName": "Lipcare",
+    "images": [
+      "/uploads/categories/1787571416889_598_Gemini_Generated_Image_kxp53pkxp53pkxp5.png"
+    ],
+    "price": 399,
+    "discountPrice": 299,
+    "baseStock": 75,
+    "sku": "KG-LIP-03",
+    "rating": 4.96,
+    "reviewsCount": 145,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-lip-3",
+        "name": "20g Jar",
+        "size": "20g",
+        "price": 399,
+        "discountPrice": 299,
+        "stock": 75,
+        "sku": "KG-LIP-03-20G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Kashmiri Saffron",
+      "Sweet Almond Oil",
+      "Mango Butter"
+    ],
+    "howToUse": [
+      "Smooth a rich layer over lips at bedtime."
+    ],
+    "benefits": [
+      "Wake up to plump, baby-soft, hydrated lips"
+    ],
+    "specifications": {
+      "Category": "Lipcare"
+    }
+  },
+  {
+    "id": "prod-lipcare-4",
+    "name": "Khushi Coconut & Shea Hydrating Lip Therapy",
+    "slug": "khushi-coconut-shea-hydrating-lip-therapy",
+    "tagline": "Daily Ultra-Moisturizing Lip Conditioner (15g)",
+    "description": "Pure organic cold-pressed coconut oil and unrefined shea butter seal in deep moisture against dry weather.",
+    "category": "lipcare",
+    "categoryName": "Lipcare",
+    "images": [
+      "/uploads/categories/1787571417027_326_Gemini_Generated_Image_89c86g89c86g89c8.png"
+    ],
+    "price": 299,
+    "discountPrice": 229,
+    "baseStock": 85,
+    "sku": "KG-LIP-04",
+    "rating": 4.88,
+    "reviewsCount": 98,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-lip-4",
+        "name": "15g Pot",
+        "size": "15g",
+        "price": 299,
+        "discountPrice": 229,
+        "stock": 85,
+        "sku": "KG-LIP-04-15G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Virgin Coconut Oil",
+      "Shea Butter",
+      "Beeswax",
+      "Vanilla Essence"
+    ],
+    "howToUse": [
+      "Swipe over lips anytime lips feel dry."
+    ],
+    "benefits": [
+      "Long-lasting hydration and barrier protection"
+    ],
+    "specifications": {
+      "Category": "Lipcare"
+    }
+  },
+  {
+    "id": "prod-rose-body-lotion",
+    "name": "Khushi Rose Radiance Nourishing Body Lotion",
+    "slug": "khushi-rose-radiance-body-lotion",
+    "tagline": "48H Deep Hydration with Damask Rose & Pure Almond Milk",
+    "description": "Enriched with fresh Damask rose water and pure sweet almond milk to envelop your body in a satin veil of moisture and exquisite floral fragrance. Restores elasticity, softens rough elbows and knees, and gives full-body luminous glow.",
+    "category": "bodycare",
+    "categoryName": "Bodycare",
+    "images": [
+      "/uploads/categories/1787571377051_774_Gemini_Generated_Image_vy4x0vvy4x0vvy4x.png"
+    ],
+    "price": 999,
+    "discountPrice": 699,
+    "baseStock": 79,
+    "sku": "KG-LOT-250",
+    "rating": 4.87,
+    "reviewsCount": 162,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-lot-250",
+        "name": "250ml Pump Bottle",
+        "size": "250ml",
+        "price": 999,
+        "discountPrice": 699,
+        "stock": 49,
+        "sku": "KG-LOT-250ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Petal Distillate",
+      "Sweet Almond Milk",
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply generously all over body after showering."
+    ],
+    "benefits": [
+      "48-hour deep moisture lock without stickiness",
+      "Softens texture and gives luminous skin sheen"
+    ],
+    "highlights": [
+      "Non-greasy",
+      "All Season Formula"
+    ],
+    "specifications": {
+      "Volume": "250ml",
+      "Packaging": "Luxury pump bottle"
+    }
+  },
+  {
+    "id": "prod-bodycare-2",
+    "name": "Khushi Brightening Body Polishing Scrub",
+    "slug": "khushi-brightening-body-polishing-scrub",
+    "tagline": "Walnut & Rose Petal Exfoliating Glow Polish (200g)",
+    "description": "Gentle body exfoliator that sloughs off dead cells, buffs away rough patches on knees and elbows, and restores satin radiance.",
+    "category": "bodycare",
+    "categoryName": "Bodycare",
+    "images": [
+      "/uploads/categories/1787571377146_257_Gemini_Generated_Image_6nzt9r6nzt9r6nzt.png"
+    ],
+    "price": 649,
+    "discountPrice": 449,
+    "baseStock": 70,
+    "sku": "KG-BOD-02",
+    "rating": 4.9,
+    "reviewsCount": 115,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-bod-02",
+        "name": "200g Jar",
+        "size": "200g",
+        "price": 649,
+        "discountPrice": 449,
+        "stock": 70,
+        "sku": "KG-BOD-02-200G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Walnut Shell Powder",
+      "Rose Oil",
+      "Almond Oil",
+      "Cane Sugar"
+    ],
+    "howToUse": [
+      "Massage in circular motions on wet body and rinse with warm water."
+    ],
+    "benefits": [
+      "Smooths texture, removes tan, and reveals silky soft skin"
+    ],
+    "specifications": {
+      "Category": "Bodycare"
+    }
+  },
+  {
+    "id": "prod-bodycare-3",
+    "name": "Khushi Whipped Shea Body Butter",
+    "slug": "khushi-whipped-shea-body-butter",
+    "tagline": "Deep Intensive 72H Barrier Care (150g)",
+    "description": "Decadent whipped body butter with pure African shea butter and cocoa seed oil for deeply parched skin.",
+    "category": "bodycare",
+    "categoryName": "Bodycare",
+    "images": [
+      "/uploads/categories/1787571377248_569_Gemini_Generated_Image_sjkj3nsjkj3nsjkj.png"
+    ],
+    "price": 749,
+    "discountPrice": 499,
+    "baseStock": 65,
+    "sku": "KG-BOD-03",
+    "rating": 4.93,
+    "reviewsCount": 128,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-bod-03",
+        "name": "150g Tub",
+        "size": "150g",
+        "price": 749,
+        "discountPrice": 499,
+        "stock": 65,
+        "sku": "KG-BOD-03-150G",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Raw Shea Butter",
+      "Cocoa Butter",
+      "Argan Oil",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Smooth all over arms, legs, and body."
+    ],
+    "benefits": [
+      "Intense barrier repair and velvety nourishment"
+    ],
+    "specifications": {
+      "Category": "Bodycare"
+    }
+  },
+  {
+    "id": "prod-bodycare-4",
+    "name": "Khushi Saffron Illuminating Body Oil",
+    "slug": "khushi-saffron-illuminating-body-oil",
+    "tagline": "Golden Shimmer & Saffron Glow Elixir (100ml)",
+    "description": "Fast-absorbing luxurious body oil enriched with Kashmiri saffron to provide a radiant sun-kissed sheen.",
+    "category": "bodycare",
+    "categoryName": "Bodycare",
+    "images": [
+      "/uploads/categories/1787571377377_666_Gemini_Generated_Image_qzv1pyqzv1pyqzv1.png"
+    ],
+    "price": 899,
+    "discountPrice": 599,
+    "baseStock": 55,
+    "sku": "KG-BOD-04",
+    "rating": 4.95,
+    "reviewsCount": 140,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-bod-04",
+        "name": "100ml Bottle",
+        "size": "100ml",
+        "price": 899,
+        "discountPrice": 599,
+        "stock": 55,
+        "sku": "KG-BOD-04-100ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Kashmiri Saffron Infusion",
+      "Jojoba Oil",
+      "Sweet Almond Oil",
+      "Golden Mica"
+    ],
+    "howToUse": [
+      "Apply to shoulders, collarbones, and legs for a golden glow."
+    ],
+    "benefits": [
+      "Deeply moisturizes and leaves glowing sheen"
+    ],
+    "specifications": {
+      "Category": "Bodycare"
+    }
+  },
+  {
+    "id": "prod-bodycare-5",
+    "name": "Khushi Damask Rose Hydrating Body Mist",
+    "slug": "khushi-damask-rose-hydrating-body-mist",
+    "tagline": "Pure Floral Refreshment & All-Day Fragrance (100ml)",
+    "description": "Alcohol-free floral body mist steam-distilled from fresh Damask rose petals for an invigorating fresh scent.",
+    "category": "bodycare",
+    "categoryName": "Bodycare",
+    "images": [
+      "/uploads/categories/1787571561912_854_Gemini_Generated_Image_wv78vtwv78vtwv78.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 60,
+    "sku": "KG-BOD-05",
+    "rating": 4.88,
+    "reviewsCount": 95,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-bod-05",
+        "name": "100ml Spray Bottle",
+        "size": "100ml",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 60,
+        "sku": "KG-BOD-05-100ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Floral Water",
+      "Aloe Vera",
+      "Vegetable Glycerin"
+    ],
+    "howToUse": [
+      "Spritz all over body anytime for instant revitalization."
+    ],
+    "benefits": [
+      "Hydrates skin and leaves lingering romantic rose fragrance"
+    ],
+    "specifications": {
+      "Category": "Bodycare"
+    }
+  },
+  {
+    "id": "prod-hair-vitality-growth-oil",
+    "name": "Khushi Ayurvedic Hair Vitality Growth Oil",
+    "slug": "khushi-hair-vitality-growth-oil",
+    "tagline": "Infused with Red Onion, Bhringraj & Hibiscus (100ml)",
+    "description": "Traditional slow-infused hair growth elixir packed with 18 vital Ayurvedic herbs. Strengthens weak hair roots, reduces scalp inflammation, halts excess shedding, and promotes thick, voluminous, lustrous hair.",
+    "category": "haircare",
+    "categoryName": "Haircare",
+    "images": [
+      "/uploads/categories/1787571642653_831_Gemini_Generated_Image_dt8ukhdt8ukhdt8u.png"
+    ],
+    "price": 999,
+    "discountPrice": 699,
+    "baseStock": 90,
+    "sku": "KG-HAIR-100",
+    "rating": 4.86,
+    "reviewsCount": 142,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-hair-100",
+        "name": "100ml Flip Cap Bottle",
+        "size": "100ml",
+        "price": 999,
+        "discountPrice": 699,
+        "stock": 60,
+        "sku": "KG-HAIR-100ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Cold-Pressed Onion Seed Oil",
+      "Bhringraj (Eclipta Alba)",
+      "Hibiscus Flower Extract",
+      "Brahmi & Amla Extract",
+      "Pure Sesame & Castor Oil"
+    ],
+    "howToUse": [
+      "Warm oil slightly and apply directly to scalp with fingertips.",
+      "Massage in gentle circular motions for 10 minutes.",
+      "Leave on for at least 2 hours or overnight, then wash with mild shampoo."
+    ],
+    "benefits": [
+      "Reduces hair breakage and hair fall significantly",
+      "Stimulates dormant follicles for new hair growth",
+      "Deep conditioning adds brilliant gloss and smoothness"
+    ],
+    "highlights": [
+      "100% Herbal Formula",
+      "Mineral Oil Free"
+    ],
+    "specifications": {
+      "Volume": "100ml",
+      "Hair Type": "All Hair Types"
+    }
+  },
+  {
+    "id": "prod-haircare-2",
+    "name": "Khushi Red Onion & Bhringraj Anti-Hairfall Elixir",
+    "slug": "khushi-red-onion-bhringraj-anti-hairfall-elixir",
+    "tagline": "Potent Scalp Serum to Halt Hair Fall (100ml)",
+    "description": "Concentrated scalp revitalizing formula that strengthens hair follicles from the root and prevents hair thinning.",
+    "category": "haircare",
+    "categoryName": "Haircare",
+    "images": [
+      "/uploads/categories/1787571642778_526_Gemini_Generated_Image_q342kpq342kpq342.png"
+    ],
+    "price": 899,
+    "discountPrice": 649,
+    "baseStock": 75,
+    "sku": "KG-HAI-02",
+    "rating": 4.9,
+    "reviewsCount": 118,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-hai-02",
+        "name": "100ml Bottle",
+        "size": "100ml",
+        "price": 899,
+        "discountPrice": 649,
+        "stock": 75,
+        "sku": "KG-HAI-02-100ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Red Onion Seed Extract",
+      "Bhringraj",
+      "Fenugreek (Methi)",
+      "Rosemary Oil"
+    ],
+    "howToUse": [
+      "Apply drops directly to thinning areas of scalp nightly."
+    ],
+    "benefits": [
+      "Strengthens hair roots and minimizes hair loss"
+    ],
+    "specifications": {
+      "Category": "Haircare"
+    }
+  },
+  {
+    "id": "prod-haircare-3",
+    "name": "Khushi Hibiscus & Amla Gloss Hair Serum",
+    "slug": "khushi-hibiscus-amla-gloss-hair-serum",
+    "tagline": "Frizz Control & Mirror Gloss Shine (50ml)",
+    "description": "Lightweight botanical shine serum that tames unruly frizz, protects against heat, and adds brilliant mirror shine.",
+    "category": "haircare",
+    "categoryName": "Haircare",
+    "images": [
+      "/uploads/categories/1787571642928_545_Gemini_Generated_Image_pamhntpamhntpamh.png"
+    ],
+    "price": 699,
+    "discountPrice": 499,
+    "baseStock": 80,
+    "sku": "KG-HAI-03",
+    "rating": 4.92,
+    "reviewsCount": 134,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-hai-03",
+        "name": "50ml Pump",
+        "size": "50ml",
+        "price": 699,
+        "discountPrice": 499,
+        "stock": 80,
+        "sku": "KG-HAI-03-50ML",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Hibiscus Flower Extract",
+      "Amla (Indian Gooseberry)",
+      "Argan Oil",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Take 2-3 drops on palms and smooth through mid-lengths and ends."
+    ],
+    "benefits": [
+      "Instant glass shine and zero frizz without greasiness"
+    ],
+    "specifications": {
+      "Category": "Haircare"
+    }
+  },
+  {
+    "id": "prod-extra-whitening-combo",
+    "name": "Khushi Extra Whitening Combo",
+    "slug": "khushi-extra-whitening-combo",
+    "tagline": "3-Step Skincare Routine: Cleanse, Treat, Protect",
+    "description": "The ultimate all-in-one daily glow regimen formulated to transform dull, uneven skin into radiant, clear, and protected complexion. Featuring 24K Gold Face Wash to detoxify pores, Extra Whitening Cream to brighten and fade dark spots, and SPF 50 PA+++ Moisturizer Sunscreen for all-day UV defense.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283023_343_Gemini_Generated_Image_8pkqvf8pkqvf8pkq.png",
+      "/images/products/extra_whitening_combo_poster.jpg"
+    ],
+    "price": 1900,
+    "discountPrice": 1500,
+    "baseStock": 42,
+    "sku": "KG-COMB-01",
+    "rating": 4.9,
+    "reviewsCount": 328,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-combo-std",
+        "name": "Complete 3-Step Kit (100ml + 50g + 100ml)",
+        "size": "Standard Kit",
+        "price": 1900,
+        "discountPrice": 1500,
+        "stock": 35,
+        "sku": "KG-COMB-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Pure 24K Gold Dust",
+      "Kashmiri Saffron Extract",
+      "Papaya Fruit Enzymes (Papain)",
+      "Niacinamide (Vitamin B3)",
+      "Zinc Oxide & Titanium Dioxide (SPF 50 PA+++)"
+    ],
+    "howToUse": [
+      "Step 1 (Cleanse): 24K Gold Face Wash.",
+      "Step 2 (Treat): Extra Whitening Cream.",
+      "Step 3 (Protect): Moisturizer + Sunscreen SPF 50."
+    ],
+    "benefits": [
+      "Brightens skin and enhances natural golden radiance",
+      "Deep pore cleansing and impurity removal",
+      "Broad spectrum UVA/UVB defense with SPF 50 PA+++"
+    ],
+    "highlights": [
+      "3 Full-Sized Products",
+      "Saves ₹400 Instantly"
+    ],
+    "specifications": {
+      "Skin Type": "All Skin Types",
+      "Country of Origin": "India"
+    }
+  },
+  {
+    "id": "prod-coffee-instant-whitening-set",
+    "name": "Khushi Coffee Instant Whitening Facial Set",
+    "slug": "khushi-coffee-instant-whitening-set",
+    "tagline": "3-Step Salon Radiance: Exfoliate • Pack • Golden Glow",
+    "description": "Experience professional facial glow at home with Arabica coffee bean scrub, antioxidant face mask, and deep-nourishing golden gel. Clears dead skin, removes stubborn blackheads, and delivers instant glass-skin radiance.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283132_709_Gemini_Generated_Image_qh3v8fqh3v8fqh3v.png",
+      "/images/products/coffee_whitening_set_poster.jpg"
+    ],
+    "price": 1499,
+    "discountPrice": 1199,
+    "baseStock": 55,
+    "sku": "KG-COFF-01",
+    "rating": 4.88,
+    "reviewsCount": 196,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-coff-std",
+        "name": "3-Jar Facial Kit (50g x 3)",
+        "size": "150g Set",
+        "price": 1499,
+        "discountPrice": 1199,
+        "stock": 55,
+        "sku": "KG-COFF-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Roasted Arabica Coffee Grounds",
+      "Walnut Shell Granules",
+      "Kaolin White Clay",
+      "Kashmiri Saffron"
+    ],
+    "howToUse": [
+      "Step 1: Massage Coffee Scrub for 2-3 minutes.",
+      "Step 2: Apply Face Pack for 15 minutes.",
+      "Step 3: Apply Golden Gel for intense hydration."
+    ],
+    "benefits": [
+      "Instant golden brightness and detoxified pores",
+      "Deep blackhead removal & gentle exfoliation"
+    ],
+    "highlights": [
+      "3 Luxury 50g Jars",
+      "Real Coffee Aroma"
+    ],
+    "specifications": {
+      "Total Wt": "150g Net",
+      "Use Frequency": "2-3 times weekly"
+    }
+  },
+  {
+    "id": "prod-bridal-glow-trousseau-combo",
+    "name": "Khushi Bridal Deluxe Glow Kit",
+    "slug": "khushi-bridal-deluxe-glow-kit",
+    "tagline": "Complete Head-to-Toe Bridal Luxury Glow Collection",
+    "description": "Curated bridal box containing Bridal Night Cream (100g), Luxury Bridal Rose Petal Soap (120g), Rose Petal Tinted Lip Butter (15g), and Rose Radiance Body Lotion (250ml).",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283241_428_Gemini_Generated_Image_v4wxspv4wxspv4wx.png"
+    ],
+    "price": 3299,
+    "discountPrice": 2499,
+    "baseStock": 30,
+    "sku": "KG-COMB-BRD",
+    "rating": 4.98,
+    "reviewsCount": 240,
+    "isFeatured": true,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-comb-brd",
+        "name": "4-Piece Deluxe Bridal Box",
+        "size": "Deluxe Box",
+        "price": 3299,
+        "discountPrice": 2499,
+        "stock": 30,
+        "sku": "KG-COMB-BRD-4PC",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Damask Rose Petal Extract",
+      "Pure Kashmiri Saffron",
+      "Pearl Powder",
+      "Shea Butter"
+    ],
+    "howToUse": [
+      "Use daily for comprehensive bridal glow care."
+    ],
+    "benefits": [
+      "Head-to-toe bridal illumination and petal softness"
+    ],
+    "highlights": [
+      "Deluxe Gift Box",
+      "Saves ₹800"
+    ],
+    "specifications": {
+      "Items Included": "Night Cream (100g), Soap (120g), Lip Butter (15g), Lotion (250ml)"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285517-3",
+    "name": "Combos Formulation #4",
+    "slug": "combos-product-1787578285518-3",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283358_356_Gemini_Generated_Image_60ljvy60ljvy60lj.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-04",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-3",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-04-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-4",
+    "name": "Combos Formulation #5",
+    "slug": "combos-product-1787578285518-4",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283512_201_Gemini_Generated_Image_8u93fk8u93fk8u93.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-05",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-4",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-05-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-5",
+    "name": "Combos Formulation #6",
+    "slug": "combos-product-1787578285518-5",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283657_10_Gemini_Generated_Image_lc22etlc22etlc22.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-06",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-5",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-06-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-6",
+    "name": "Combos Formulation #7",
+    "slug": "combos-product-1787578285518-6",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283765_722_Gemini_Generated_Image_k4ycrzk4ycrzk4yc.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-07",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-6",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-07-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-7",
+    "name": "Combos Formulation #8",
+    "slug": "combos-product-1787578285518-7",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578283881_59_Gemini_Generated_Image_nd8su5nd8su5nd8s.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-08",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-7",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-08-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-8",
+    "name": "Combos Formulation #9",
+    "slug": "combos-product-1787578285518-8",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284010_426_Gemini_Generated_Image_9571a39571a39571.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-09",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-8",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-09-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-9",
+    "name": "Combos Formulation #10",
+    "slug": "combos-product-1787578285518-9",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284146_116_Gemini_Generated_Image_evh3rrevh3rrevh3.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-010",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-9",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-010-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-10",
+    "name": "Combos Formulation #11",
+    "slug": "combos-product-1787578285518-10",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284272_348_Gemini_Generated_Image_fh8h1ofh8h1ofh8h.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-011",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-10",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-011-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-11",
+    "name": "Combos Formulation #12",
+    "slug": "combos-product-1787578285518-11",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284388_156_Gemini_Generated_Image_k0v4gyk0v4gyk0v4.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-012",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-11",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-012-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-12",
+    "name": "Combos Formulation #13",
+    "slug": "combos-product-1787578285518-12",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284512_765_Gemini_Generated_Image_o55nhko55nhko55n.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-013",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-12",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-013-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-13",
+    "name": "Combos Formulation #14",
+    "slug": "combos-product-1787578285518-13",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284614_722_Gemini_Generated_Image_bafqhgbafqhgbafq.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-014",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-13",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-014-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-14",
+    "name": "Combos Formulation #15",
+    "slug": "combos-product-1787578285518-14",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284758_984_Gemini_Generated_Image_vjfm0nvjfm0nvjfm.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-015",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-14",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-015-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-15",
+    "name": "Combos Formulation #16",
+    "slug": "combos-product-1787578285518-15",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284881_593_Gemini_Generated_Image_mcuossmcuossmcuo.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-016",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-15",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-016-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-16",
+    "name": "Combos Formulation #17",
+    "slug": "combos-product-1787578285518-16",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578284996_725_Gemini_Generated_Image_h2vomkh2vomkh2vo.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-017",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-16",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-017-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-17",
+    "name": "Combos Formulation #18",
+    "slug": "combos-product-1787578285518-17",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578285115_895_Gemini_Generated_Image_qxi4sxqxi4sxqxi4.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-018",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-17",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-018-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-18",
+    "name": "Combos Formulation #19",
+    "slug": "combos-product-1787578285518-18",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578285221_548_Gemini_Generated_Image_6nzt9r6nzt9r6nzt.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-019",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-18",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-019-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-19",
+    "name": "Combos Formulation #20",
+    "slug": "combos-product-1787578285518-19",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578285311_602_Gemini_Generated_Image_sjkj3nsjkj3nsjkj.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-020",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-19",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-020-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-20",
+    "name": "Combos Formulation #21",
+    "slug": "combos-product-1787578285518-20",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578285403_238_Gemini_Generated_Image_k99vmbk99vmbk99v.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-021",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-20",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-021-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  },
+  {
+    "id": "prod-combos-1787578285518-21",
+    "name": "Combos Formulation #22",
+    "slug": "combos-product-1787578285518-21",
+    "tagline": "Authentic Combos Glow & Care",
+    "description": "Luxury Combos beauty care formulation crafted with active botanical extracts.",
+    "category": "combos",
+    "categoryName": "Combos",
+    "images": [
+      "/uploads/categories/1787578285504_242_Gemini_Generated_Image_aitnajaitnajaitn.png"
+    ],
+    "price": 499,
+    "discountPrice": 349,
+    "baseStock": 50,
+    "sku": "KG-COM-022",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "isActive": true,
+    "variants": [
+      {
+        "id": "var-1787578285518-21",
+        "name": "Standard Unit",
+        "size": "Standard",
+        "price": 499,
+        "discountPrice": 349,
+        "stock": 50,
+        "sku": "KG-COM-022-STD",
+        "isActive": true
+      }
+    ],
+    "ingredients": [
+      "Natural Botanical Extracts",
+      "Niacinamide",
+      "Saffron Dew",
+      "Vitamin E"
+    ],
+    "howToUse": [
+      "Apply evenly to clean skin and massage gently in circular motions."
+    ],
+    "benefits": [
+      "Nourishes, protects, and enhances natural radiant glow."
+    ],
+    "specifications": {
+      "Category": "Combos"
+    }
+  }
+]

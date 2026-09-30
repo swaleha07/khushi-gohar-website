@@ -1,0 +1,98 @@
+[
+  {
+    "id": "usr_9876543210",
+    "phone": "+919876543210",
+    "countryCode": "+91",
+    "nationalNumber": "9876543210",
+    "name": "Aarohi Sen",
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "savedAddresses": [
+      {
+        "id": "addr_101",
+        "fullName": "Aarohi Sen",
+        "phone": "9876543210",
+        "address": "Flat 402, Lotus Bloom Apartments, Bandra West",
+        "landmark": "Near Linking Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050",
+        "country": "India",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "usr_9123456789",
+    "phone": "+919123456789",
+    "countryCode": "+91",
+    "nationalNumber": "9123456789",
+    "name": "Vikram Joshi",
+    "createdAt": "2026-09-05T14:30:00.000Z",
+    "savedAddresses": [
+      {
+        "id": "addr_102",
+        "fullName": "Vikram Joshi",
+        "phone": "9123456789",
+        "address": "House #14, Sector 21-A",
+        "city": "Chandigarh",
+        "state": "Punjab",
+        "pincode": "160022",
+        "country": "India",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "usr_9889829039",
+    "phone": "+919889829039",
+    "countryCode": "+91",
+    "nationalNumber": "9889829039",
+    "name": "Khushi Radiant Glow",
+    "createdAt": "2026-09-19T14:43:59.740Z",
+    "savedAddresses": [
+      {
+        "fullName": "Khushi Radiant Glow",
+        "phone": "9889829039",
+        "address": "Plot 88, Rose Petal Avenue",
+        "landmark": "Near Lotus Botanical Gardens",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400001",
+        "country": "India",
+        "isDefault": true,
+        "id": "addr_1789829041917"
+      }
+    ]
+  },
+  {
+    "id": "usr_8261085391",
+    "phone": "+918261085391",
+    "countryCode": "+91",
+    "nationalNumber": "8261085391",
+    "createdAt": "2026-09-19T14:54:17.190Z",
+    "savedAddresses": [],
+    "name": "swaleha"
+  },
+  {
+    "id": "usr_9889830691",
+    "phone": "+919889830691",
+    "countryCode": "+91",
+    "nationalNumber": "9889830691",
+    "name": "Khushi Radiant Glow",
+    "createdAt": "2026-09-19T15:11:31.263Z",
+    "savedAddresses": [
+      {
+        "fullName": "Khushi Radiant Glow",
+        "phone": "9889830691",
+        "address": "Plot 88, Rose Petal Avenue",
+        "landmark": "Near Lotus Botanical Gardens",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400001",
+        "country": "India",
+        "isDefault": true,
+        "id": "addr_1789830691566"
+      }
+    ]
+  }
+]

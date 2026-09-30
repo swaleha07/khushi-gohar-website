@@ -1,0 +1,125 @@
+[
+  {
+    "id": "skincare",
+    "name": "Skincare",
+    "subtitle": "King & Whitening Creams",
+    "description": "Targeted night-time cell repair and high-potency whitening creams with saffron, active peptides, and natural pearl dew.",
+    "badge": "Best Seller",
+    "href": "/category/skincare",
+    "images": [
+      "/uploads/categories/1787571171968_661_Gemini_Generated_Image_z1921oz1921oz192.png",
+      "/uploads/categories/1787571280956_73_Gemini_Generated_Image_whkjw0whkjw0whkj.png",
+      "/uploads/categories/1787571281131_151_Gemini_Generated_Image_yk7jjdyk7jjdyk7j.png",
+      "/uploads/categories/1787571281363_968_Gemini_Generated_Image_ukw8tdukw8tdukw8.png",
+      "/uploads/categories/1787571497745_568_Gemini_Generated_Image_cmqriucmqriucmqr.png",
+      "/uploads/categories/1787571497882_654_Gemini_Generated_Image_bi6wafbi6wafbi6w.png",
+      "/uploads/categories/1787571281563_289_Gemini_Generated_Image_qsjcaaqsjcaaqsjc.png",
+      "/uploads/categories/1787571281730_973_Gemini_Generated_Image_478mti478mti478m.png",
+      "/uploads/categories/1787571281846_662_Gemini_Generated_Image_iwm46oiwm46oiwm4.png",
+      "/uploads/categories/1787571497341_430_Gemini_Generated_Image_1s1kot1s1kot1s1k.png",
+      "/uploads/categories/1787571497574_162_Gemini_Generated_Image_wv78vtwv78vtwv78.png"
+    ]
+  },
+  {
+    "id": "facewash",
+    "name": "Facewash & Soaps",
+    "subtitle": "Deep Pore Cleansing & Handmade Bars",
+    "description": "Formulated with 24K pure gold flakes, saffron dew, and gentle botanicals for crystal clear, radiant skin.",
+    "badge": "24K Gold Detox",
+    "href": "/category/facewash",
+    "images": [
+      "/uploads/categories/1787568654807_862_Gemini_Generated_Image_ywj2k2ywj2k2ywj2__1_.png",
+      "/uploads/categories/1787568655042_628_Gemini_Generated_Image_xgtx84xgtx84xgtx.png",
+      "/uploads/categories/1787568655251_966_Gemini_Generated_Image_on929yon929yon92.png",
+      "/uploads/categories/1787568655387_442_Gemini_Generated_Image_hunv6rhunv6rhunv.png",
+      "/uploads/categories/1787568655523_31_Gemini_Generated_Image_q021b7q021b7q021.png"
+    ]
+  },
+  {
+    "id": "lipcare",
+    "name": "Lipcare",
+    "subtitle": "Natural Petal Pink Glow",
+    "description": "Ultra-hydrating berry and shea butter balms for healed, plump, and naturally tinted lips.",
+    "badge": "Dewy Finish",
+    "href": "/category/lipcare",
+    "images": [
+      "/uploads/categories/1787571416657_594_Gemini_Generated_Image_q01ug5q01ug5q01u.png",
+      "/uploads/categories/1787571416794_364_Gemini_Generated_Image_ydqt0uydqt0uydqt.png",
+      "/uploads/categories/1787571416889_598_Gemini_Generated_Image_kxp53pkxp53pkxp5.png",
+      "/uploads/categories/1787571417027_326_Gemini_Generated_Image_89c86g89c86g89c8.png"
+    ]
+  },
+  {
+    "id": "bodycare",
+    "name": "Bodycare",
+    "subtitle": "48H Rose Moisture",
+    "description": "Nourish, soften, and brighten your body with pure sweet almond milk and Damask rose petal extracts.",
+    "badge": "Natural Rose",
+    "href": "/category/bodycare",
+    "images": [
+      "/uploads/categories/1787571377051_774_Gemini_Generated_Image_vy4x0vvy4x0vvy4x.png",
+      "/uploads/categories/1787571377146_257_Gemini_Generated_Image_6nzt9r6nzt9r6nzt.png",
+      "/uploads/categories/1787571377248_569_Gemini_Generated_Image_sjkj3nsjkj3nsjkj.png",
+      "/uploads/categories/1787571377377_666_Gemini_Generated_Image_qzv1pyqzv1pyqzv1.png",
+      "/uploads/categories/1787571561912_854_Gemini_Generated_Image_wv78vtwv78vtwv78.png"
+    ]
+  },
+  {
+    "id": "haircare",
+    "name": "Haircare",
+    "subtitle": "Herbal Onion & Bhringraj",
+    "description": "Traditional slow-infused herbal oils to halt hair fall, strengthen roots, and enhance glossy volume.",
+    "badge": "Ayurvedic",
+    "href": "/category/haircare",
+    "images": [
+      "/uploads/categories/1787571642653_831_Gemini_Generated_Image_dt8ukhdt8ukhdt8u.png",
+      "/uploads/categories/1787571642778_526_Gemini_Generated_Image_q342kpq342kpq342.png",
+      "/uploads/categories/1787571642928_545_Gemini_Generated_Image_pamhntpamhntpamh.png"
+    ]
+  },
+  {
+    "id": "combos",
+    "name": "Combos",
+    "subtitle": "3-Step Sets & Bridal Kits",
+    "description": "Save up to ₹400 on curated 3-step kits combining 24k Gold Face Wash, Extra Whitening Cream, and SPF 50 Sunscreen.",
+    "badge": "Save ₹400",
+    "href": "/category/combos",
+    "images": [
+      "/uploads/categories/1787578283023_343_Gemini_Generated_Image_8pkqvf8pkqvf8pkq.png",
+      "/uploads/categories/1787578283132_709_Gemini_Generated_Image_qh3v8fqh3v8fqh3v.png",
+      "/uploads/categories/1787578283241_428_Gemini_Generated_Image_v4wxspv4wxspv4wx.png",
+      "/uploads/categories/1787578283358_356_Gemini_Generated_Image_60ljvy60ljvy60lj.png",
+      "/uploads/categories/1787578283512_201_Gemini_Generated_Image_8u93fk8u93fk8u93.png",
+      "/uploads/categories/1787578283657_10_Gemini_Generated_Image_lc22etlc22etlc22.png",
+      "/uploads/categories/1787578283765_722_Gemini_Generated_Image_k4ycrzk4ycrzk4yc.png",
+      "/uploads/categories/1787578283881_59_Gemini_Generated_Image_nd8su5nd8su5nd8s.png",
+      "/uploads/categories/1787578284010_426_Gemini_Generated_Image_9571a39571a39571.png",
+      "/uploads/categories/1787578284146_116_Gemini_Generated_Image_evh3rrevh3rrevh3.png",
+      "/uploads/categories/1787578284272_348_Gemini_Generated_Image_fh8h1ofh8h1ofh8h.png",
+      "/uploads/categories/1787578284388_156_Gemini_Generated_Image_k0v4gyk0v4gyk0v4.png",
+      "/uploads/categories/1787578284512_765_Gemini_Generated_Image_o55nhko55nhko55n.png",
+      "/uploads/categories/1787578284614_722_Gemini_Generated_Image_bafqhgbafqhgbafq.png",
+      "/uploads/categories/1787578284758_984_Gemini_Generated_Image_vjfm0nvjfm0nvjfm.png",
+      "/uploads/categories/1787578284881_593_Gemini_Generated_Image_mcuossmcuossmcuo.png",
+      "/uploads/categories/1787578284996_725_Gemini_Generated_Image_h2vomkh2vomkh2vo.png",
+      "/uploads/categories/1787578285115_895_Gemini_Generated_Image_qxi4sxqxi4sxqxi4.png",
+      "/uploads/categories/1787578285221_548_Gemini_Generated_Image_6nzt9r6nzt9r6nzt.png",
+      "/uploads/categories/1787578285311_602_Gemini_Generated_Image_sjkj3nsjkj3nsjkj.png",
+      "/uploads/categories/1787578285403_238_Gemini_Generated_Image_k99vmbk99vmbk99v.png",
+      "/uploads/categories/1787578285504_242_Gemini_Generated_Image_aitnajaitnajaitn.png"
+    ]
+  },
+  {
+    "id": "all",
+    "name": "All Products",
+    "subtitle": "Explore Entire Catalog",
+    "description": "Explore our full catalog of authentic whitening creams, combos, lotions, and herbal treatments.",
+    "badge": "View All",
+    "href": "/shop",
+    "images": [
+      "/images/products/coffee_whitening_set.jpg",
+      "/images/products/extra_whitening_combo.jpg",
+      "/images/products/king_night_cream_100g.jpg"
+    ]
+  }
+]

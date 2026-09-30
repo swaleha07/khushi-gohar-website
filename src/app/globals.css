@@ -1,26 +1,110 @@
 @import "tailwindcss";
 
+@theme {
+  --color-brand-pink-50: #FFF4F7;
+  --color-brand-pink-100: #FCE8EF;
+  --color-brand-pink-200: #F8D7E3;
+  --color-brand-pink-300: #F1B8CC;
+  --color-brand-pink-400: #EFAFC3;
+  --color-brand-pink-500: #E587A4;
+  --color-brand-rose: #D66B8B;
+  --color-brand-gold: #D4AF37;
+  --color-brand-dark: #3A3034;
+  --color-brand-gray: #6E6266;
+  --color-brand-light-gray: #FAF5F7;
+  --color-brand-border: #F2D5DE;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FFFFFF;
+  --foreground: #3A3034;
+  --primary-pink: #F8D7E3;
+  --secondary-pink: #EFAFC3;
+  --light-pink: #FFF4F7;
+  --text-dark: #3A3034;
+  --accent-gold: #C58F72;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+html, body {
+  background-color: #FFFFFF;
+  color: #3A3034;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, .font-serif-luxury {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Custom Soft Pink Shadows */
+.shadow-pink-soft {
+  box-shadow: 0 10px 25px -5px rgba(239, 175, 195, 0.25), 0 8px 10px -6px rgba(239, 175, 195, 0.15);
+}
+
+.shadow-pink-card {
+  box-shadow: 0 4px 20px rgba(58, 48, 52, 0.06), 0 1px 4px rgba(239, 175, 195, 0.12);
+}
+
+.shadow-pink-glow {
+  box-shadow: 0 0 25px rgba(248, 215, 227, 0.6);
+}
+
+/* Glassmorphism */
+.glass-pink {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(248, 215, 227, 0.6);
+}
+
+.glass-banner {
+  background: linear-gradient(135deg, rgba(255, 244, 247, 0.95) 0%, rgba(255, 255, 255, 0.9) 100%);
+  backdrop-filter: blur(8px);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFF4F7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #EFAFC3;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D66B8B;
+}
+
+/* Print styles for Invoice */
+@media print {
+  body * {
+    visibility: hidden;
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  #invoice-printable, #invoice-printable * {
+    visibility: visible;
+  }
+  #invoice-printable {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    background: white;
+  }
+  .no-print {
+    display: none !important;
+  }
 }
